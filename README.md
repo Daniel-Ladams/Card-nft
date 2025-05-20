@@ -12,7 +12,8 @@
   <img src="src/img/image-equilibrium.jpg" alt="NFT Preview" width="300px">
   
   <br><br>
-  
+
+  <div align="center">
   🎞️ <strong>GIF demonstrativo</strong>:
   
   <img src="src/img/animacao-nft.gif" alt="Demonstração da Página NFT" width="350px">
@@ -45,7 +46,7 @@ Editar
 
 ## 📌 Como visualizar
 
-1. Clone este repositório:
+Clone este repositório:
    
 bash
    git clone https://github.com/Daniel-Ladams/nft.git
