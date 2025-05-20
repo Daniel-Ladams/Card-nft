@@ -6,9 +6,16 @@
 </p>
 
 <div align="center">
+  
+  📸 <strong>Preview</strong>:
+  
+  <img src="./nft/src/img/image-equilibrium.jpg" alt="NFT Preview" width="300px">
+
+  <br><br>
+  
   🎞️ <strong>GIF demonstrativo</strong>:
   
-  <img src="src/img/animacao-nft.gif" alt="Demonstração da Página NFT" width="754px">
+  <img src="./nft/src/img/animacao-nft.gif" alt="NFT Preview" width="350px">
 
 </div>
 
@@ -16,39 +23,35 @@
 
 ## 🚀 Tecnologias
 
-- HTML5
-- CSS3
-- Flexbox
-- Variáveis CSS
-- Animações de Hover
-- Estrutura de pastas organizada
+● HTML5
+● CSS3
+● Flexbox
+● Variáveis CSS
+● Animações de Hover
+● Estrutura de pastas organizada
 
 ---
 
 ## 📁 Estrutura do projeto
 
-nft/
-├── index.html├── src/│ ├── css/│ │ ├── reset.css│ │ ├── style.css│ │ └── variables.css│ └── img/│ ├── image-equilibrium.jpg│ └── animaçãogif.gif
+nft/➟ index.html➟ src/ ➟ css/ ➟ │reset.css│ ➟ │ style.css│ ➟ │variables.css│ ➟ img/
 
-yaml
-Copiar
-Editar
 
 ---
 
 ## 📌 Como visualizar
 
-Clone este repositório:
+● Clone este repositório:
    
 bash
    git clone https://github.com/Daniel-Ladams/nft.git
 Acesse a pasta do projeto:
 
-bash
-Copiar
-Editar
-cd nft
-Abra o arquivo index.html no navegador.
+● bash
+● Copiar
+● Editar
+● cd nft
+● Abra o arquivo index.html no navegador.
 
 📄 Licença
 Este projeto está aberto para estudo, uso e melhoria. Fique à vontade para forkar ⭐
