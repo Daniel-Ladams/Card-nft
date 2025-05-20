@@ -53,9 +53,13 @@ bash
 Acesse a pasta do projeto:
 
 ● bash
+
 ● Copiar
+
 ● Editar
+
 ● cd nft
+
 ● Abra o arquivo index.html no navegador.
 
 📄 Licença
