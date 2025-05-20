@@ -24,10 +24,15 @@
 ## 🚀 Tecnologias
 
 ● HTML5
+
 ● CSS3
+
 ● Flexbox
+
 ● Variáveis CSS
+
 ● Animações de Hover
+
 ● Estrutura de pastas organizada
 
 ---
