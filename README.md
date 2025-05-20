@@ -6,11 +6,6 @@
 </p>
 
 <div align="center">
-  
-  📸 <strong>Preview</strong>:
-  
-  <img src="src/img/image-equilibrium.jpg" alt="NFT Preview" width="300px">
-  
   <br><br>
   🎞️ <strong>GIF demonstrativo</strong>:
   
