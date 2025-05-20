@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-  <br><br>
   🎞️ <strong>GIF demonstrativo</strong>:
   
   <img src="src/img/animacao-nft.gif" alt="Demonstração da Página NFT" width="754px">
