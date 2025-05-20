@@ -12,11 +12,9 @@
   <img src="src/img/image-equilibrium.jpg" alt="NFT Preview" width="300px">
   
   <br><br>
-
-  <div align="center">
   🎞️ <strong>GIF demonstrativo</strong>:
   
-  <img src="src/img/animacao-nft.gif" alt="Demonstração da Página NFT" width="350px">
+  <img src="src/img/animacao-nft.gif" alt="Demonstração da Página NFT" width="754px">
 
 </div>
 
